@@ -10,7 +10,7 @@ Things you may want to cover:
 * System dependencies
 
 * Configuration
-
+* edwina test enable on
 * Database creation
 
 * Database initialization
